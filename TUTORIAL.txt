@@ -1,0 +1,4 @@
+1.primeiramente deve-se baixar a pasta countC no seu disco C;
+2.Segundo executar o CountCells.exe;
+3.alocar as fotos na pasta 4x em images e seguir o fluxo do app;
+4.*converter tabela para power bi para devolver as metricas de análise de substrato.
